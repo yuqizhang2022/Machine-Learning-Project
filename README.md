@@ -10,6 +10,7 @@ In this project, I used machine learning models to predict Current Option Value 
   5. Model selection (metrics: out-of-sample R squared for regression and accuracy for classification)
   6. Limitations and future steps to improve the model
 
-**The final presentation consists of two parts:**
+**The final presentation consists of three parts:**
   1. A YouTube video: https://www.youtube.com/watch?v=_F37H-rZcE8&t=9s
-  2. A pdf file
+  2. A presentation
+  3. A report
