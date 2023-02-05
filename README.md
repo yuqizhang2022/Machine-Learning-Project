@@ -12,5 +12,5 @@ In this project, I used machine learning models to predict Current Option Value 
 
 **The final presentation consists of three parts:**
   1. A YouTube video: https://www.youtube.com/watch?v=_F37H-rZcE8&t=9s
-  2. A presentation
-  3. A report
+  2. A presentation: https://github.com/yuqizhang2022/Machine-Learning-Project/blob/main/DSO530%20Presentation.pdf
+  3. A report: 
