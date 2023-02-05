@@ -1,4 +1,4 @@
-# DSO530-Machine Learning
+# Machine Learning Project
 
 In this project, I used machine learning models to predict Current Option Value and compare our predicted values with values derived from Black-Scholes formula. The prediction accuracy on test data set was more than 94% with the selected machine learning model (extreme gradient boosting). 
 
